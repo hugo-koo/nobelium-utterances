@@ -1,2 +1,2 @@
 # nobelium-utterances
-See issues
+Open comment log. See issues.
